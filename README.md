@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [1656-count-good-triplets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1656-count-good-triplets) |
+| [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Enumeration
 |  |
 | ------- |
