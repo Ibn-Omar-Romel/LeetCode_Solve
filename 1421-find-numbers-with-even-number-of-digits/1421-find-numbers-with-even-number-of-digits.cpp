@@ -8,9 +8,12 @@ public:
 
         int count = 0;
         for (auto& x : nums) {
-
-            string s = to_string(x);
-            if (s.size() % 2 == 0)
+            int a = 0;
+            while(x > 0) {
+                a++;
+                x /= 10;
+            }
+            if (a % 2 == 0)
                 count++;
         }
         return count;
