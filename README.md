@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1656-count-good-triplets) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 ## Enumeration
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Binary Search
 |  |
 | ------- |
