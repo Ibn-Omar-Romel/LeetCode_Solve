@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2659-number-of-even-and-odd-bits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2659-number-of-even-and-odd-bits) |
 <!---LeetCode Topics End-->
