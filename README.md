@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0278-first-bad-version](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0278-first-bad-version) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
 |  |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3639-zero-array-transformation-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3639-zero-array-transformation-i) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
