@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0434-number-of-segments-in-a-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0434-number-of-segments-in-a-string) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
