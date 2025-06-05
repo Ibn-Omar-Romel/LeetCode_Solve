@@ -5,22 +5,15 @@ public:
         queue<TreeNode*>que;
         que.push(root);
 
-        TreeNode* node = NULL;
-
         int value = 0;
-        
-
+    
         while(!que.empty()) {
             int n = que.size();
-            bool flag = false;
-            while(n--) {
-                node = que.front();
-                que.pop();
+            value = que.front()->val;
 
-                if(!flag) {
-                    value = node->val;
-                    flag = true;
-                }
+            while(n--) {
+                TreeNode* node = que.front();
+                que.pop();
 
                 if (node->left) que.push(node->left);
                 if (node->right) que.push(node->right);
