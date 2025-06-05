@@ -127,4 +127,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
+## Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0199-binary-tree-right-side-view) |
+## Depth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0199-binary-tree-right-side-view) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0199-binary-tree-right-side-view) |
+## Binary Tree
+|  |
+| ------- |
+| [0199-binary-tree-right-side-view](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0199-binary-tree-right-side-view) |
 <!---LeetCode Topics End-->
