@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0278-first-bad-version) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Queue
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0222-count-complete-tree-nodes) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2659-number-of-even-and-odd-bits) |
 ## String
 |  |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0513-find-bottom-left-tree-value) |
 ## Depth-First Search
 |  |
@@ -152,5 +155,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0102-binary-tree-level-order-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0222-count-complete-tree-nodes) |
 | [0513-find-bottom-left-tree-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0513-find-bottom-left-tree-value) |
 <!---LeetCode Topics End-->
