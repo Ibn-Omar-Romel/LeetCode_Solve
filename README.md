@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
 | [0500-keyboard-row](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0500-keyboard-row) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0500-keyboard-row](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0500-keyboard-row) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0199-binary-tree-right-side-view) |
@@ -167,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0199-binary-tree-right-side-view) |
@@ -179,4 +183,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
