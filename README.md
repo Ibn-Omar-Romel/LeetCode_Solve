@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
 | [0500-keyboard-row](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0500-keyboard-row) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
+| [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1293-three-consecutive-odds) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2215-finding-3-digit-even-numbers) |
 ## Monotonic Queue
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0961-long-pressed-name) |
 | [1168-duplicate-zeros](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1168-duplicate-zeros) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
