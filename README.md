@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1500-count-largest-group) |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
 | [1610-xor-operation-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1610-xor-operation-in-an-array) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2659-number-of-even-and-odd-bits) |
 ## String
@@ -255,4 +257,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
