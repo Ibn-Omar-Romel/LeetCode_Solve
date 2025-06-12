@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0278-first-bad-version) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2634-minimum-common-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2634-minimum-common-value) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Queue
 |  |
 | ------- |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3055-maximum-odd-binary-number) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0459-repeated-substring-pattern) |
 | [0686-repeated-string-match](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0812-rotate-string) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1168-duplicate-zeros](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1168-duplicate-zeros) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2634-minimum-common-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2634-minimum-common-value) |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Tree
 |  |
@@ -240,4 +244,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Rolling Hash
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+## Hash Function
+|  |
+| ------- |
+| [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 <!---LeetCode Topics End-->
