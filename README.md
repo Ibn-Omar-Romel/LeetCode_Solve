@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1610-xor-operation-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1610-xor-operation-in-an-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
 | [2831-number-of-beautiful-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2831-number-of-beautiful-pairs) |
+| [3055-maximum-odd-binary-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3055-maximum-odd-binary-number) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+| [3055-maximum-odd-binary-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3055-maximum-odd-binary-number) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 ## Binary Search
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2341-count-prefixes-of-a-given-string) |
+| [3055-maximum-odd-binary-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3055-maximum-odd-binary-number) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
