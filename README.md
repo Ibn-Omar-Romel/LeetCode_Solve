@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0459-repeated-substring-pattern](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0459-repeated-substring-pattern) |
 | [0482-license-key-formatting](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0482-license-key-formatting) |
 | [0500-keyboard-row](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0500-keyboard-row) |
+| [0686-repeated-string-match](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0686-repeated-string-match) |
 | [0961-long-pressed-name](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0961-long-pressed-name) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0459-repeated-substring-pattern) |
+| [0686-repeated-string-match](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0686-repeated-string-match) |
 ## Two Pointers
 |  |
 | ------- |
