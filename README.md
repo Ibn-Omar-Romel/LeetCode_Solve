@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
 | [0500-keyboard-row](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0500-keyboard-row) |
+| [0792-binary-search](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
 | [1168-duplicate-zeros](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1168-duplicate-zeros) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0278-first-bad-version) |
+| [0792-binary-search](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0792-binary-search) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2634-minimum-common-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2634-minimum-common-value) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
