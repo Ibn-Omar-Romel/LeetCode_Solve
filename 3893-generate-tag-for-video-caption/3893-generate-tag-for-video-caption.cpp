@@ -1,34 +1,35 @@
 class Solution {
 public:
     string generateTag(string caption) {
+
+        int n = caption.size();
+
         string s = "#";
         int i = 0;
-        while(caption[i] == ' ') {
+        while (caption[i] == ' ') { // to ignore leading spaces
             i++;
         }
-        
+
         string temp = "";
-        for ( ; i < caption.size(); i++) {
+        bool flag = false; // for checking if it's time for upper
+        while (i < n) {
+
             if (caption[i] != ' ') {
-                if (temp.size() == 0)
-                    temp.push_back(toupper(caption[i]));
-                else {
-                    temp.push_back(tolower(caption[i]));
+                if (flag) {
+                    s.push_back(toupper(caption[i]));
+                    flag = false;
+                } else {
+                    s.push_back(tolower(caption[i]));
                 }
+            } else {
+                flag = true;
             }
-            else if (temp.size() != 0) {
-                s += temp;
-                temp = "";
-            }
-        }    
-        if (temp.size() != 0) {
-            s += temp;
+
+            if (s.size() == 100)
+                break;
+            i++;
         }
 
-        s[1] = tolower(s[1]);
-        while(s.size() > 100) {
-            s.pop_back();
-        }
         return s;
     }
 };
