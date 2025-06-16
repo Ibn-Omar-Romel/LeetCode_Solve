@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-three-consecutive-odds](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1656-count-good-triplets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1656-count-good-triplets) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2106-find-greatest-common-divisor-of-array) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1500-count-largest-group](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1610-xor-operation-in-an-array) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2704-maximum-difference-by-remapping-a-digit) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 ## Sorting
 |  |
@@ -114,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -270,4 +274,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
+| [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 <!---LeetCode Topics End-->
