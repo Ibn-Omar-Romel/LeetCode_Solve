@@ -1,14 +1,12 @@
+#pragma GCC optimize("Ofast")
+static auto _ = [](){ios::sync_with_stdio(false); cin.tie(nullptr); return nullptr;}();
 class Solution {
 public:
     int partitionArray(vector<int>& nums, int k) {
 
         sort(nums.begin(), nums.end());
-
-        int n = nums.size();
-        int i = 0, j = 1;
-
+        int n = nums.size(), i = 0, j = 1;
         int count = 1;
-
         while(j < n) {
             if (nums[j] - nums[i] > k) {
                 count++;
