@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
+| [0367-valid-perfect-square](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1421-find-numbers-with-even-number-of-digits) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0069-sqrtx) |
 | [0222-count-complete-tree-nodes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0222-count-complete-tree-nodes) |
 | [0278-first-bad-version](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0278-first-bad-version) |
+| [0367-valid-perfect-square](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0441-arranging-coins) |
 | [0792-binary-search](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0792-binary-search) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
