@@ -5,7 +5,7 @@ public:
         if(num == 1)
             return true;
         
-        int l = 1, r = num / 2;
+        int l = 1, r = num;
 
         while(l <= r) {
 
