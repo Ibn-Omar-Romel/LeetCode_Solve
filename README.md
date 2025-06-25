@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
 | [0500-keyboard-row](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0500-keyboard-row) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0278-first-bad-version](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0441-arranging-coins) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0792-binary-search) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2634-minimum-common-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2634-minimum-common-value) |
