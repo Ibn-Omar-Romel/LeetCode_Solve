@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0441-arranging-coins) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -300,5 +302,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
