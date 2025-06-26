@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0441-arranging-coins) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
+| [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1500-count-largest-group](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Combinatorics
@@ -293,5 +295,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
