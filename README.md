@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1510-find-lucky-integer-in-an-array) |
 | [1656-count-good-triplets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1656-count-good-triplets) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2215-finding-3-digit-even-numbers) |
 | [2634-minimum-common-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2634-minimum-common-value) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1019-squares-of-a-sorted-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2215-finding-3-digit-even-numbers) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
