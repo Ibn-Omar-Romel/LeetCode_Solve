@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0697-degree-of-an-array) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [0837-most-common-word](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0837-most-common-word) |
+| [0889-buddy-strings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0889-buddy-strings) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-rotate-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0837-most-common-word) |
+| [0889-buddy-strings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0889-buddy-strings) |
 | [0961-long-pressed-name](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0961-long-pressed-name) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
