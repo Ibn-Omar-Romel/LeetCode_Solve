@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0697-degree-of-an-array) |
 | [0792-binary-search](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
+| [0824-number-of-lines-to-write-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0837-most-common-word) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1019-squares-of-a-sorted-array) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0551-student-attendance-record-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0551-student-attendance-record-i) |
 | [0686-repeated-string-match](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0686-repeated-string-match) |
 | [0812-rotate-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0812-rotate-string) |
+| [0824-number-of-lines-to-write-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0824-number-of-lines-to-write-string) |
 | [0837-most-common-word](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0837-most-common-word) |
 | [0961-long-pressed-name](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0961-long-pressed-name) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
