@@ -14,6 +14,7 @@ public:
             }
 
             x = tolower(x);
+
             if (x == 'a' || x == 'e' || x == 'i' || x == 'o' || x == 'u') {
                 vowel = true;
             }
@@ -27,6 +28,7 @@ public:
 
         if (vowel and consotant)    
             return true;
+            
         return false;
     }
 };
