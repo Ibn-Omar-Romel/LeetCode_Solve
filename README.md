@@ -196,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2341-count-prefixes-of-a-given-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3055-maximum-odd-binary-number) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
+| [3396-valid-word](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3396-valid-word) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
