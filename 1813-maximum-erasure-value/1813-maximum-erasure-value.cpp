@@ -4,7 +4,7 @@ public:
 
         int maxSum = 0;
         int currentSum = 0;
-        set<int> st;
+        unordered_set<int> st;
 
         int i = 0, j = 0;
         while (j < nums.size()) {
