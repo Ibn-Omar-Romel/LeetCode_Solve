@@ -12,7 +12,7 @@ public:
         }
 
         int value = sum + multiple;
-        if (temp % value == 0 and temp >= value) {
+        if (temp % value == 0) {
             return true;
         }
         return false;
