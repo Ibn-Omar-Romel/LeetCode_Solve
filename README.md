@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3846-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3846-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3918-check-divisibility-by-digit-sum-and-product](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3918-check-divisibility-by-digit-sum-and-product) |
 ## Greedy
 |  |
 | ------- |
