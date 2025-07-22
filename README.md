@@ -192,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0837-most-common-word](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0837-most-common-word) |
 | [0889-buddy-strings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0889-buddy-strings) |
 | [0961-long-pressed-name](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0961-long-pressed-name) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1714-rearrange-spaces-between-words](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1714-rearrange-spaces-between-words) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
