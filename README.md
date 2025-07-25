@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0162-find-peak-element) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0001-two-sum) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0500-keyboard-row](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0575-distribute-candies) |
