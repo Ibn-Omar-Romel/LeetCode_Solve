@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0001-two-sum) |
+| [0056-merge-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0056-merge-intervals) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0162-find-peak-element) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0056-merge-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0748-largest-number-at-least-twice-of-others) |
