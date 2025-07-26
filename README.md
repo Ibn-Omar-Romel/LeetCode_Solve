@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0056-merge-intervals) |
+| [0057-insert-interval](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0057-insert-interval) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
 | [0162-find-peak-element](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0162-find-peak-element) |
