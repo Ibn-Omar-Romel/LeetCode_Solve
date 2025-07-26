@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2634-minimum-common-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2634-minimum-common-value) |
 | [2831-number-of-beautiful-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2831-number-of-beautiful-pairs) |
 | [3445-lexicographically-minimum-string-after-removing-stars](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3445-lexicographically-minimum-string-after-removing-stars) |
@@ -161,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2215-finding-3-digit-even-numbers) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2327-largest-number-after-digit-swaps-by-parity](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2327-largest-number-after-digit-swaps-by-parity) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
+| [2274-keep-multiplying-found-values-by-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Bit Manipulation
