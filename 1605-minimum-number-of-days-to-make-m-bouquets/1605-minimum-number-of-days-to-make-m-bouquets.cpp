@@ -2,13 +2,16 @@ class Solution {
 public:
     int minDays(vector<int>& bloomDay, int m, int k) {
 
-        if ((long long)m * k > bloomDay.size()) 
-            return -1;
-        
-        int totalDays = -1;
-        int left = 1, right = 1e9;
+        int maxDayNumber = INT_MIN;
 
-        while(left <= right) {
+        for (int i = 0; i < bloomDay.size(); i++) {
+            maxDayNumber = max(maxDayNumber, bloomDay[i]);
+        }
+
+        int totalDays = -1;
+        int left = 1, right = maxDayNumber;
+
+        while (left <= right) {
 
             int mid = left + (right - left) / 2;
 
@@ -21,17 +24,14 @@ public:
                         bouquets++;
                         adj = 0;
                     }
-                }
-                else {
+                } else {
                     adj = 0;
                 }
             }
-
             if (bouquets >= m) {
                 totalDays = mid;
                 right = mid - 1;
-            }
-            else {
+            } else {
                 left = mid + 1;
             }
         }
