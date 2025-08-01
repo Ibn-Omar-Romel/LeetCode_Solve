@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
 | [0367-valid-perfect-square](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0441-arranging-coins) |
+| [0492-construct-the-rectangle](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
