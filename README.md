@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0001-two-sum) |
 | [0056-merge-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0118-pascals-triangle) |
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0073-set-matrix-zeroes) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0500-keyboard-row](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0500-keyboard-row) |
 | [0575-distribute-candies](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0575-distribute-candies) |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
