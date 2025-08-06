@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1019-squares-of-a-sorted-array) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1168-duplicate-zeros](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1168-duplicate-zeros) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1293-three-consecutive-odds](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1293-three-consecutive-odds) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0441-arranging-coins](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0441-arranging-coins) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0792-binary-search) |
+| [1056-capacity-to-ship-packages-within-d-days](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
