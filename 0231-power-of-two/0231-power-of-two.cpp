@@ -8,6 +8,7 @@ public:
 
         // double b = log2(n);
         // return b == (int)b ;
+        
         return (n && !(n & (n-1)));
     }
 };
