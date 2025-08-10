@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1813-maximum-erasure-value) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
@@ -256,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
 | [1714-rearrange-spaces-between-words](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1714-rearrange-spaces-between-words) |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3639-zero-array-transformation-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3639-zero-array-transformation-i) |
 ## Interactive
 |  |
