@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0057-insert-interval) |
 | [0073-set-matrix-zeroes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0073-set-matrix-zeroes) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0594-longest-harmonious-subsequence) |
@@ -312,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0018-4sum) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
 | [0961-long-pressed-name](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0961-long-pressed-name) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1019-squares-of-a-sorted-array) |
