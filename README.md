@@ -279,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
 ## Combinatorics
 |  |
