@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0500-keyboard-row](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0500-keyboard-row) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0575-distribute-candies](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0575-distribute-candies) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0135-candy) |
 | [0435-non-overlapping-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1018-largest-perimeter-triangle) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0056-merge-intervals) |
 | [0435-non-overlapping-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0435-non-overlapping-intervals) |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0594-longest-harmonious-subsequence](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0748-largest-number-at-least-twice-of-others) |
