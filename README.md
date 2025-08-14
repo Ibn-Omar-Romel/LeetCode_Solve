@@ -268,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2341-count-prefixes-of-a-given-string) |
+| [2346-largest-3-same-digit-number-in-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2346-largest-3-same-digit-number-in-string) |
 | [3055-maximum-odd-binary-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3055-maximum-odd-binary-number) |
 | [3245-find-beautiful-indices-in-the-given-array-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3245-find-beautiful-indices-in-the-given-array-i) |
 | [3396-valid-word](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3396-valid-word) |
