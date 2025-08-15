@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0070-climbing-stairs) |
 | [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0367-valid-perfect-square) |
 | [0441-arranging-coins](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0492-construct-the-rectangle) |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0191-number-of-1-bits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0342-power-of-four) |
 | [0645-set-mismatch](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0645-set-mismatch) |
 | [1610-xor-operation-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1610-xor-operation-in-an-array) |
 | [2659-number-of-even-and-odd-bits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2659-number-of-even-and-odd-bits) |
@@ -417,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0231-power-of-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Memoization
