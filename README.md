@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1448-maximum-69-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1448-maximum-69-number) |
 | [1500-count-largest-group](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1500-count-largest-group) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [1610-xor-operation-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1610-xor-operation-in-an-array) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [1018-largest-perimeter-triangle](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1018-largest-perimeter-triangle) |
+| [1448-maximum-69-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1448-maximum-69-number) |
 | [1529-max-difference-you-can-get-from-changing-an-integer](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1529-max-difference-you-can-get-from-changing-an-integer) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
