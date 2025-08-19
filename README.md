@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2320-find-all-k-distant-indices-in-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2497-maximum-matching-of-players-with-trainers) |
 | [2634-minimum-common-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2634-minimum-common-value) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
 | [2831-number-of-beautiful-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2831-number-of-beautiful-pairs) |
