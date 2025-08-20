@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1227-number-of-equivalent-domino-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1500-count-largest-group](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1619-path-crossing](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1619-path-crossing) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1813-maximum-erasure-value) |
 | [2177-check-whether-two-strings-are-almost-equivalent](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2177-check-whether-two-strings-are-almost-equivalent) |
@@ -271,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1490-generate-a-string-with-characters-that-have-odd-counts](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1490-generate-a-string-with-characters-that-have-odd-counts) |
+| [1619-path-crossing](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1619-path-crossing) |
 | [1714-rearrange-spaces-between-words](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1714-rearrange-spaces-between-words) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2093-check-if-string-is-a-prefix-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2093-check-if-string-is-a-prefix-of-array) |
