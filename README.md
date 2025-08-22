@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2831-number-of-beautiful-pairs](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2831-number-of-beautiful-pairs) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3241-divide-array-into-arrays-with-max-difference) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3639-zero-array-transformation-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3639-zero-array-transformation-i) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -451,6 +452,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0073-set-matrix-zeroes) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 ## Segment Tree
 |  |
 | ------- |
