@@ -471,5 +471,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0196-delete-duplicate-emails) |
 | [0197-rising-temperature](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0197-rising-temperature) |
 | [1179-game-play-analysis-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1179-game-play-analysis-i) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
 <!---LeetCode Topics End-->
