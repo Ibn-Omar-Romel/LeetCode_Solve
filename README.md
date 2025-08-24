@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1656-count-good-triplets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1656-count-good-triplets) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1741-sort-array-by-increasing-frequency) |
@@ -297,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0198-house-robber) |
 | [0435-non-overlapping-intervals](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0435-non-overlapping-intervals) |
 | [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -443,6 +445,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0594-longest-harmonious-subsequence) |
 | [0940-fruit-into-baskets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0940-fruit-into-baskets) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1813-maximum-erasure-value) |
 ## Linked List
 |  |
