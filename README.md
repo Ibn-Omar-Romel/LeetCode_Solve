@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0792-binary-search) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
 | [0824-number-of-lines-to-write-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0824-number-of-lines-to-write-string) |
+| [0830-largest-triangle-area](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0830-largest-triangle-area) |
 | [0837-most-common-word](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0837-most-common-word) |
 | [0940-fruit-into-baskets](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0940-fruit-into-baskets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0958-sort-array-by-parity-ii) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0492-construct-the-rectangle](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0492-construct-the-rectangle) |
 | [0728-self-dividing-numbers](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0728-self-dividing-numbers) |
 | [0797-rabbits-in-forest](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0797-rabbits-in-forest) |
+| [0830-largest-triangle-area](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0830-largest-triangle-area) |
 | [0900-reordered-power-of-2](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0900-reordered-power-of-2) |
 | [1013-fibonacci-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1018-largest-perimeter-triangle) |
@@ -478,4 +480,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1179-game-play-analysis-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1179-game-play-analysis-i) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
