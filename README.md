@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2316-count-hills-and-valleys-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2316-count-hills-and-valleys-in-an-array) |
 | [2320-find-all-k-distant-indices-in-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2320-find-all-k-distant-indices-in-an-array) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2341-count-prefixes-of-a-given-string](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2341-count-prefixes-of-a-given-string) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2106-find-greatest-common-divisor-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2106-find-greatest-common-divisor-of-array) |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2753-minimum-number-of-operations-to-make-all-array-elements-equal-to-1) |
@@ -247,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2436-make-array-zero-by-subtracting-equal-amounts](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2436-make-array-zero-by-subtracting-equal-amounts) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2187-vowels-of-all-substrings](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2187-vowels-of-all-substrings) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Prefix Sum
 |  |
