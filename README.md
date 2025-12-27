@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1813-maximum-erasure-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1813-maximum-erasure-value) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1929-concatenation-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2274-keep-multiplying-found-values-by-two) |
