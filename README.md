@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2000-minimum-speed-to-arrive-on-time](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2000-minimum-speed-to-arrive-on-time) |
 | [2048-build-array-from-permutation](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2048-build-array-from-permutation) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1018-largest-perimeter-triangle](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1019-squares-of-a-sorted-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1741-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2085-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2085-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -457,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1430-find-the-k-beauty-of-a-number](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1813-maximum-erasure-value](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1813-maximum-erasure-value) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Ibn-Omar-Romel/LeetCode_Solve/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Linked List
 |  |
 | ------- |
